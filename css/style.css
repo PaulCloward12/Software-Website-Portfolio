@@ -656,6 +656,9 @@ span {
     color: #333;
 }
 
+.overlay{
+    border: 1px solid red;
+}
 
 /* BREAKPOINTS */
 @media (max-width: 1200px) {
