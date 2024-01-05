@@ -70,8 +70,8 @@ body {
 .logo {
     margin-right: auto;
     img {
-        width: 9em;
-        height: 9em;
+        width: 6em;
+        height: 6em;
         border-radius: 100%;
         margin-right: auto;
         -webkit-box-shadow: 2px 2px 5px 0px var(--gray-color);
@@ -140,6 +140,10 @@ section {
 
 .home .home-content {
     max-width: 44rem;
+}
+
+.home-content{
+    padding-top: 4rem;
 }
 
 .home-content h4 {
@@ -282,7 +286,7 @@ section {
 }
 
 .profession iconify-icon {
-    font-size: 6em;
+    font-size: 4em;
 }
 
 .home .profession-box .circle {
